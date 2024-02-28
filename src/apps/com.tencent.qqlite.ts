@@ -11,7 +11,7 @@ export default defineAppConfig({
       rules: [
         {
           matches: '[id="com.tencent.qqlite:id/close_top_bar"]',
-          snapshotUrls: ['https://i.gkd.li/import/14428054'],
+          snapshotUrls: ['https://i.gkd.li/i/14428054'],
         },
       ],
     }
