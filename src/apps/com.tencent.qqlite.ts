@@ -1,10 +1,6 @@
 import { defineAppConfig } from '../types';
 
 export default defineAppConfig({
-  id: 'cn.wps.moffice_eng',
-  name: 'WPS',
-  groups: [
-{
   id: 'com.tencent.qqlite',
   name: 'QQ极速版',
   groups: [
@@ -19,7 +15,5 @@ export default defineAppConfig({
         },
       ],
     },
-  ],
-}
   ],
 });
