@@ -6,7 +6,7 @@ export default defineAppConfig({
   groups: [
 {
       key: 1,
-      name: '置顶更新',
+      name: '更新提示',
       activityIds: ['com.tencent.mobileqq.activity.SplashActivity'],
       rules: [
         {
