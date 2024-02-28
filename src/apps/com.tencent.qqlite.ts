@@ -4,7 +4,7 @@ export default defineAppConfig({
   id: 'com.tencent.qqlite',
   name: 'QQ极速版',
   groups: [
-{
+    {
       key: 1,
       name: '更新提示',
       activityIds: ['com.tencent.mobileqq.activity.SplashActivity'],
@@ -14,6 +14,6 @@ export default defineAppConfig({
           snapshotUrls: ['https://i.gkd.li/i/14428054'],
         },
       ],
-    }
+    },
   ],
 });
